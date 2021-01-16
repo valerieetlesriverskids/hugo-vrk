@@ -12,8 +12,8 @@ ls | grep -v release-hugo-vrk.sh | xargs rm -rf
 echo getting last public hugo site release
 cp -r ../../hugo\ builder/hugo-vrk/_data/public/* .
 
-echo workaroung: deleting files too big for github pages
-rm vidéos/Coueron-dans-mon-ile-remixe.mp4
+#echo workaroung: deleting files too big for github pages
+#rm vidéos/Coueron-dans-mon-ile-remixe.mp4
 
 # adding everything to github
 git add .
