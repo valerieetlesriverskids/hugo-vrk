@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vidéos on Valérie et les River&#39;s Kids</title>
-    <link>https://valerieetlesriverskids.github.io/hugo-vrk/vid%C3%A9os/</link>
+    <link>https://phmartinez.github.io/hugo-vrk/vid%C3%A9os/</link>
     <description>Recent content in Vidéos on Valérie et les River&#39;s Kids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 01 Jan 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://valerieetlesriverskids.github.io/hugo-vrk/vid%C3%A9os/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://phmartinez.github.io/hugo-vrk/vid%C3%A9os/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Valérie et les River&#39;s Kids</title>
-    <link>https://valerieetlesriverskids.github.io/hugo-vrk/photos/</link>
+    <link>https://phmartinez.github.io/hugo-vrk/photos/</link>
     <description>Recent content in Photos on Valérie et les River&#39;s Kids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://valerieetlesriverskids.github.io/hugo-vrk/photos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://phmartinez.github.io/hugo-vrk/photos/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
