@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Valérie et les River&#39;s Kids</title>
-    <link>https://valerieetlesriverskids.github.io/hugo-vrk/categories/</link>
+    <link>https://phmartinez.github.io/hugo-vrk/categories/</link>
     <description>Recent content in Categories on Valérie et les River&#39;s Kids</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://valerieetlesriverskids.github.io/hugo-vrk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://phmartinez.github.io/hugo-vrk/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
