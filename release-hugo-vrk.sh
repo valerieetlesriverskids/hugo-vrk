@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x 
 
 # test if commit message is specified. exit if not.
 if [ "$1" == "" ] ; then
