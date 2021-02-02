@@ -1,5 +1,5 @@
 #! /bin/bash
-set -x 
+#set -x 
 
 # test if commit message is specified. exit if not.
 if [ "$1" == "" ] ; then
@@ -11,7 +11,7 @@ echo removing current release
 ls | grep -v release-hugo-vrk.sh | xargs rm -rf
 
 echo getting last public hugo site release
-cp -r ../../hugo\ builder/hugo-vrk/_data/public/* .
+cp -r ../../hugo-builder/hugo-vrk/_data/public/* .
 
 #echo workaroung: deleting files too big for github pages
 #rm vidéos/Coueron-dans-mon-ile-remixe.mp4
